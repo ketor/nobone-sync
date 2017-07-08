@@ -1,0 +1,3 @@
+[submodule "jjz"]
+	path = jjz
+	url = https://github.com/ketor/jjz_mirror
